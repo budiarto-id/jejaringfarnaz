@@ -36,4 +36,5 @@
     </platform>
     <platform name="wp8">
     </platform>
+	<preference name="android-minSdkVersion" value="26" />
 </widget>
